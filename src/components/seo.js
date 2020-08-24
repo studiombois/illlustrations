@@ -45,7 +45,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-          content: `https://illlustrations.co/preview.jpg`,
+          content: `https://mboisbos.netlify.app/preview.jpg`,
         },
         {
           property: `og:title`,
@@ -85,7 +85,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image`,
-          content: `https://illlustrations.co/preview.jpg`,
+          content: `https://mboisbos.netlify.app/preview.jpg`,
         },
       ].concat(meta)}
     />
